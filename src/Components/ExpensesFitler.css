@@ -1,0 +1,16 @@
+.filter-expense{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 4vw;
+    padding: 20px 0px;
+    background-color: rgba(8, 8, 83, 0.329);
+    align-items: center;
+    
+}
+.filter-expense h2{
+    color: white;
+}
+.filter-expense select{
+    height: fit-content;
+    padding: 10px 20px;
+}

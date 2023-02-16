@@ -1,0 +1,9 @@
+.warning{
+    background: rgb(256 0 0 /26%);
+    color: red;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    padding: 14px 0px;
+
+}

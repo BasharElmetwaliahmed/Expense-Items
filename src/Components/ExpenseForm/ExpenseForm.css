@@ -1,0 +1,26 @@
+.expense-form__input{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.expense-form__input label{
+    font-size: 25px;
+    color: white;
+}
+.expense-form__input input{
+    width: fit-content;
+    padding: 10px 4vw;
+}
+.expense-form{
+    display: flex;
+    flex-direction: column;
+}
+.expense-form button{
+    color: white;
+    background-color: #2D033B;
+    padding: 15px;
+    border-radius: 6px;
+    margin-top: 10px;
+    border: 2px white solid;
+
+}
